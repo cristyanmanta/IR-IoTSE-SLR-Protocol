@@ -6,6 +6,13 @@ This repository provides a comprehensive review of search engines for IoT and Wo
 ## I. Description of the SLR Methodology
 It includes a description of the process for collecting primary studies and selecting works to be analyzed in this paper. The SLR is presented on information retrieval for IoT and WoT scenarios, including defining the research questions and the selection strategy. We specify the inclusion and exclusion criteria in conjunction with the quality assurance criteria. The data extraction procedure is then outlined. We have conducted the SLR following an iterative three-phase approach: review planning, execution, and reporting. 
 
+### Map Questions
+We define the following Mapping Questions (MQ), which support and guide the scope of this SLR:
+MQ1: How many studies have been published over the years?
+MQ2: Who are the most active researchers in the area?
+MQ3: How have the Information Retrieval sub-tasks on IoT and WoT evolved over the years?
+MQ4: Which challenges have been identified, and which open research questions still require new advancements?
+
 ### PICOC Criteria on the SLR
 
 | Criteria     | Description                                                                                                                   |
