@@ -1,9 +1,10 @@
 # IR-IoTSE-SLR-Protocol
 Information Retrieval for IoT and WoT: State-of-the-Art, Taxonomy Framework and Evolutionary Directions
 
-This repository provides a comprehensive review of search engines for IoT and WoT. It delves into the information retrieval process for these scenarios, defining research questions and selection strategies. The Systematic Literature Review (SLR) details are here: on GitHub and IEEE Data Port(TM). 
+This repository provides a comprehensive review of search engines for IoT and WoT. It delves into the information retrieval process for these scenarios, defining research questions and selection strategies. The Systematic Literature Review (SLR) details are here: on GitHub and IEEE Data Port(TM). It includes the SLR protocol utilized in this study and the analysis data of the SLR research questions.
 
 ## I. Description of the SLR Methodology
+It includes a description of the process for collecting primary studies and selecting works to be analyzed in this paper. The SLR is presented on information retrieval for IoT and WoT scenarios, including defining the research questions and the selection strategy. We specify the inclusion and exclusion criteria in conjunction with the quality assurance criteria. The data extraction procedure is then outlined. We have conducted the SLR following an iterative three-phase approach: review planning, execution, and reporting. 
 
 ### PICOC Criteria on the SLR
 
