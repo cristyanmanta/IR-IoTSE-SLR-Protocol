@@ -78,7 +78,7 @@ Overall RQ: What are the state-of-the-art Information Retrieval (IR) models, alg
 |-----|------------------------------------------------------------------------------------------------------------------------------|---------|
 | IC1 | Paper proposing at least one Information Retrieval mechanism (sub-task, method, technique, model, algorithm, search engine). | AND     |
 | IC2 | The proposed solution is applied on IoT OR WoT OR precursor.                                                                 | AND     |
-| IC3 | The paper publication period must be between 2000 and 2022.                                                                  | AND     |
+| IC3 | The paper publication period must be between 2000 and 2024.                                                                  | AND     |
 | IC4 | Study must be available in full text in any predefined digital libraries.                                                    | AND     |
 
 | EC  | Criteria                                                                                 | Boolean |
