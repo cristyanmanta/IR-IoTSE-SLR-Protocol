@@ -64,7 +64,7 @@ Overall RQ: What are the state-of-the-art Information Retrieval (IR) models, alg
 
 ### Inclusion (IC) and Exclusion Criteria (EC)
 
-| IC  | Criteria                                                                                                                     | Boolean |
+| IC  | Inclusion Criteria                                                                                                                     | Boolean |
 |-----|------------------------------------------------------------------------------------------------------------------------------|---------|
 | IC1 | Paper proposing at least one Information Retrieval mechanism (sub-task, method, technique, model, algorithm, search engine). | AND     |
 | IC2 | The proposed solution is applied on IoT OR WoT OR precursor.                                                                 | AND     |
