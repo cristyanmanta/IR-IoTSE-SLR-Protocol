@@ -71,7 +71,6 @@ Overall RQ: What are the state-of-the-art Information Retrieval (IR) models, alg
 | IC3 | The paper publication period must be between 2000 and 2024.                                                                  | AND     |
 | IC4 | Study must be available in full text in any predefined digital libraries.                                                    | AND     |
 | **EC**  | **Exclusion Criteria**                                                                                 | **Boolean** |
-|-----|------------------------------------------------------------------------------------------|---------|
 | EC1 | The study is irrelevant to IoT, WoT or any of its precursor domains and the field of IR. | OR      |
 | EC2 | The study is a similar or reduced version of a complete work.                            | OR      |
 | EC3 | The paper is a tertiary study or any non-scientific report.                              | OR      |
