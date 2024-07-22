@@ -52,26 +52,6 @@ Overall RQ: What are the state-of-the-art Information Retrieval (IR) models, alg
 | RQ3.4 | Which context-awareness and Absence levels are considered in those primary studies?                             |
 | RQ4 | How have the proposed solutions been modeled and/or resolved those challenges algorithmically and technically?    |
 
-### Keyworks on the Automatic Search
-
-| Set | Id | Keyword               |
-|-----|----|-----------------------|
-|   1 | A  | Information Retrieval |
-|   1 | B  | Search Engine         |
-|   1 | C  | Crawling              |
-|   1 | D  | Service Discovery     |
-|   1 | E  | Indexing              |
-|   1 | F  | Retrieving            |
-|   1 | G  | Ranking               |
-|   1 | H  | UI (Presenting)       |
-
-| Set | Id | Keyword               |
-|-----|----|--------------------   |
-|   2 | A  | Internet of Things    |
-|   2 | B  | Web of Things         |
-|   2 | C  | IoT                   |
-|   2 | D  | WoT                   |
-
 ### Search String used on Engines
 
 | Engine              | Date       | Query                                                                                                                                                                                                                                                                                  | Annex     |
