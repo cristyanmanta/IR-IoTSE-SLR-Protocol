@@ -8,10 +8,10 @@ It includes a description of the process for collecting primary studies and sele
 
 ### Map Questions
 We define the following Mapping Questions (MQ), which support and guide the scope of this SLR:
-MQ1: How many studies have been published over the years?
-MQ2: Who are the most active researchers in the area?
-MQ3: How have the Information Retrieval sub-tasks on IoT and WoT evolved over the years?
-MQ4: Which challenges have been identified, and which open research questions still require new advancements?
+- MQ1: How many studies have been published over the years?
+- MQ2: Who are the most active researchers in the area?
+- MQ3: How have the Information Retrieval sub-tasks on IoT and WoT evolved over the years?
+- MQ4: Which challenges have been identified, and which open research questions still require new advancements?
 
 ### PICOC Criteria on the SLR
 
